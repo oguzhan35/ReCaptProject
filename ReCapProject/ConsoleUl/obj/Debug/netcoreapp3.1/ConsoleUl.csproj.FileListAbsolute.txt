@@ -1,0 +1,13 @@
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.exe
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.deps.json
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.runtimeconfig.json
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.runtimeconfig.dev.json
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\bin\Debug\netcoreapp3.1\ConsoleUl.pdb
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.csprojAssemblyReference.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.AssemblyInfoInputs.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.AssemblyInfo.cs
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.csproj.CoreCompileInputs.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.pdb
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\ConsoleUl\obj\Debug\netcoreapp3.1\ConsoleUl.genruntimeconfig.cache

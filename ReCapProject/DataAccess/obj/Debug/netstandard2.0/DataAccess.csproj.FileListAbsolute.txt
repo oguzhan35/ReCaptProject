@@ -1,0 +1,12 @@
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\oguz\Desktop\del yedek 25.10.09\kodlama.oi\proje\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
